@@ -2,5 +2,5 @@
 
 
 this is a activator for the 15 in one eom installer of windows 10
-iso will be included in this repo
+
 
